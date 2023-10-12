@@ -1,0 +1,8 @@
+{
+    "editBtn": "Edit",
+                    "delBtn": "Delete",
+                    "Heading": "CRUD in Redux-ToolKit with Redux-Thunk!",
+                    "Addbtn": "Add",
+                    "backBtn": "Back",
+                    "name":"Prabha"
+}
